@@ -25,5 +25,11 @@ Here are some ideas to get you started:
 2022.03 - 전공통합으로 게임공학과로 학과 변경
 
 2025.02 - 한국공학대 게임공학과 졸업 예정
+
+## 주 사용 언어
+C++
+
+Direct3D 12
+
 ## 문의 이메일
 kim1234312@gmail.com
